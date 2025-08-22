@@ -71,3 +71,9 @@ Fraud detection Recall improved to ~83% (catching more fraud cases)
 F1-score = 0.85 balancing precision & recall
 
 Reduced false positives by ~15% compared to baseline logistic regression
+
+
+
+## 📂 Dataset
+The dataset (450MB) is too large to host on GitHub.  
+➡️ Download it here: [Google Drive Link](https://drive.google.com/file/d/1WCN9M6B3zDR6gePhrR2omSEPR8LzTJpe/view?usp=drive_link) 
